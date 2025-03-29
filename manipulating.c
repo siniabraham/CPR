@@ -37,13 +37,4 @@ int main() {
 	manipulating();
 	return 0;
 
-
-/* Version 2 */
->> insert here
-
-
-/* Version 3 */
->> insert here
-
-
 }
